@@ -17,6 +17,7 @@ export class App {
         this._displayLoading()
         this._loadAssets();
         this._start();
+        
     }
 
     _addEventListener() {
